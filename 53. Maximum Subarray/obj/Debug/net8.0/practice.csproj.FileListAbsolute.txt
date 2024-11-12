@@ -1,0 +1,14 @@
+F:\MoviesApi\practice\practice\bin\Debug\net8.0\practice.exe
+F:\MoviesApi\practice\practice\bin\Debug\net8.0\practice.deps.json
+F:\MoviesApi\practice\practice\bin\Debug\net8.0\practice.runtimeconfig.json
+F:\MoviesApi\practice\practice\bin\Debug\net8.0\practice.dll
+F:\MoviesApi\practice\practice\bin\Debug\net8.0\practice.pdb
+F:\MoviesApi\practice\practice\obj\Debug\net8.0\practice.GeneratedMSBuildEditorConfig.editorconfig
+F:\MoviesApi\practice\practice\obj\Debug\net8.0\practice.AssemblyInfoInputs.cache
+F:\MoviesApi\practice\practice\obj\Debug\net8.0\practice.AssemblyInfo.cs
+F:\MoviesApi\practice\practice\obj\Debug\net8.0\practice.csproj.CoreCompileInputs.cache
+F:\MoviesApi\practice\practice\obj\Debug\net8.0\practice.dll
+F:\MoviesApi\practice\practice\obj\Debug\net8.0\refint\practice.dll
+F:\MoviesApi\practice\practice\obj\Debug\net8.0\practice.pdb
+F:\MoviesApi\practice\practice\obj\Debug\net8.0\practice.genruntimeconfig.cache
+F:\MoviesApi\practice\practice\obj\Debug\net8.0\ref\practice.dll

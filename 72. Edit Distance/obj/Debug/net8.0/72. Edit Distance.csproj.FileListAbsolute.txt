@@ -12,3 +12,11 @@ F:\LeetcodeProblemsSolution\72. Edit Distance\obj\Debug\net8.0\refint\72. Edit D
 F:\LeetcodeProblemsSolution\72. Edit Distance\obj\Debug\net8.0\72. Edit Distance.pdb
 F:\LeetcodeProblemsSolution\72. Edit Distance\obj\Debug\net8.0\72. Edit Distance.genruntimeconfig.cache
 F:\LeetcodeProblemsSolution\72. Edit Distance\obj\Debug\net8.0\ref\72. Edit Distance.dll
+F:\LeetcodeProblemsSolution\LeetcodeProblemsSolution\72. Edit Distance\obj\Debug\net8.0\72. Edit Distance.GeneratedMSBuildEditorConfig.editorconfig
+F:\LeetcodeProblemsSolution\LeetcodeProblemsSolution\72. Edit Distance\obj\Debug\net8.0\72. Edit Distance.AssemblyInfoInputs.cache
+F:\LeetcodeProblemsSolution\LeetcodeProblemsSolution\72. Edit Distance\obj\Debug\net8.0\72. Edit Distance.AssemblyInfo.cs
+F:\LeetcodeProblemsSolution\LeetcodeProblemsSolution\72. Edit Distance\obj\Debug\net8.0\72. Edit Distance.csproj.CoreCompileInputs.cache
+F:\LeetcodeProblemsSolution\LeetcodeProblemsSolution\72. Edit Distance\obj\Debug\net8.0\72. Edit Distance.sourcelink.json
+F:\LeetcodeProblemsSolution\LeetcodeProblemsSolution\72. Edit Distance\obj\Debug\net8.0\72. Edit Distance.dll
+F:\LeetcodeProblemsSolution\LeetcodeProblemsSolution\72. Edit Distance\obj\Debug\net8.0\refint\72. Edit Distance.dll
+F:\LeetcodeProblemsSolution\LeetcodeProblemsSolution\72. Edit Distance\obj\Debug\net8.0\72. Edit Distance.pdb
